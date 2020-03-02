@@ -352,7 +352,7 @@ Flux won't automatially delete services that are running on the cluster but don'
 Flux will play well with CRDs. If you have a CRD definition or a custom resource yaml in the control repository, then they will be applied to the cluster like any standard resources. 
 
 Further resources
------------------
+------------------
 
 You can find much more about Gitops online.
 
